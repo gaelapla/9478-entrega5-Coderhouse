@@ -44,6 +44,19 @@ Este repositorio no cuenta con una demo online por el momento. Para verlo en tu 
 
 Este proyecto fue desarrollado como entrega final del curso **Desarrollo Web** de Coderhouse, con foco en la construcción de un sitio semántico y responsivo utilizando HTML y CSS con Flexbox.
 
+## 🔗 Sitio desplegado
+[Ver sitio en vivo]
+(https://gaelapla.github.io/9478-entrega5-Coderhouse/)
+
+
+
+
+
+
+
+
+
+
 ## Autora
 
 **Gaela** — Diseñadora gráfica y fotógrafa
