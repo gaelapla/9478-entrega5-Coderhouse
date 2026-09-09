@@ -139,10 +139,6 @@ p {
   margin: 0 auto;       /* ← nuevo: centra ese bloque en la página */
 }
 
-.destacados-grid {
-  grid-template-columns: repeat(3, 1fr);
-}
-
 .producto {
   display: flex;
   flex-direction: column;
