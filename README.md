@@ -11,6 +11,7 @@ Skincare Pro es un sitio de varias páginas que presenta una selección de produ
 - HTML5 (estructura semántica)
 - CSS3 (Flexbox para maquetación)
 - Google Fonts
+- Bootstrap 5 (Navbar, Carousel, sistema de grillas)
 
 ## Estructura del proyecto
 
