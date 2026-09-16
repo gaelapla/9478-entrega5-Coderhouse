@@ -469,3 +469,9 @@ main {
   transform: translateY(-6px);
   box-shadow: 0 8px 16px rgba(0, 0, 0, 0.15);
 }
+@media (max-width: 480px) {
+  body {
+    padding-left: 12px;
+    padding-right: 12px;
+  }
+}
