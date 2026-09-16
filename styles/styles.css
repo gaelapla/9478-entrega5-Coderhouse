@@ -479,3 +479,7 @@ main {
 .navbar-nav .nav-item:has(.btn-sesion) {
   align-self: flex-start;
 }
+
+.btn-sesion {
+  margin-left: 0;
+}
